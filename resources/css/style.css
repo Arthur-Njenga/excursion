@@ -26,3 +26,7 @@ footer{
     text-align: right;
     color: grey;
 }
+
+.tv{
+    background: url('resources/images/phone.webp');
+}
